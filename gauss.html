@@ -100,13 +100,21 @@
 				<p> This looks just as confusing as the original problem... but a little symmetry is all we need to solve this, if we can find a way to match certain pairs of numbers
 				to other numbers in a way that creates a pattern, we may be able to create a formula. Lets rewrite the equation in a more geomtrically pleasing way</p>
 				
-				<p> 1 + 2 + 3 + 4 + 5 </p>
-				<p> 10+ 9 + 8 + 7 + 6 </p>
-				<p>_____________________</p>
-				<p> 11 + 11 + 11 + 11 + 11 </p>
+				<img src = 'images/gaussp1.png'>
 				
 				<p> We get 5 pairs of 11.We see that adding from both extreme sides of the sequence(lowest + highest, lowest + 1 + highest - 1, ....) we get n/2 pairs of n+1's. Hmm.. I guess we can take n/2 * (n+1) to get this sum 
-				and this must've been what pattern Gauss saw!</p>
+				and this must've been what pattern Gauss saw!</p><br>
+				<h3> A different problem </h3>
+				<p>Now lets make the ability to find a symmetry a little broader, what if we were told to sum 2 + 4 + 6 + 8 + ... + 2n (n being the amount of numbers to sum.) 
+				How could we use the same tactics to find a solution? Well algabraicly we would just see that (2 + 4 + 6 + 8 + ... + 2n) / 2 = 2(1+2+3+...+n) and go from there but
+				we want to come to the answer as if we are seeing something like this for the first time. </p>
+				<h4> Problem</h4>
+				<img src = 'images/gaussp2.png'>
+				<p> This is again about finding the patterns in the symmetry(bare with my GIMP skills):</p>
+				<img src = 'images/gaussp22.png'>
+				<p> We see that n = 10, and there are 5 pairs of 22, we also see that the lowest + highest = 22 and 5 is half of n. So with a little
+				logic, we can easily conclude that n/2 pairs of n+2 that this sum = n/2 * (n+2) for any n. </p>
+				
 		</div>
 	
 	
