@@ -1,0 +1,44 @@
+# site settings
+title: Luke
+subtitle: Roche
+email: LukeRocheDev@gmail.com
+description: A 22 year old, highly driven, computer scientist<br /> and Machine Learning, Rendering, and DevOps specialist.
+baseurl: "/Luke_Roche" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 10 lake avenue
+city: East Brunswick
+state: New Jersey
+zip_code: 08816
+country: United States of America
+phone: (914) 629-7147
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/Compiler
+  GitLab:
+  Google-Plus: 
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/luke-roche
+  Twitter: 
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
