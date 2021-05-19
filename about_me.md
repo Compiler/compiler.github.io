@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: landing
-description: 'And my history.'
+description: 'And my history'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

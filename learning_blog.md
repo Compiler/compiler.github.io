@@ -3,6 +3,7 @@ layout: post
 title: Learning Difficult Things
 description: And how to accomplish anything
 image: assets/images/pic11.jpg
+date: "May 18th, 2021"
 nav-menu: true
 ---
 
