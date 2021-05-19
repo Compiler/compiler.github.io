@@ -16,15 +16,15 @@ nav-menu: true
 			<h2>Why Computer Science?</h2>
 		</header>
 		<p>When I was a freshman in highschool, I started to fail my photography class for not having a camera. As sad as that is, my guidance conselor saw this and called me in to 
-		move me to the only other available class: Intro to Visual Basic. I started a few weeks late at this point and had no idea that coding even existed. Suffice to say I started doing poorly
-		in that class as well. Because of this, I decided to stay after school to get some help and that's when my teacher showed me how I am could create things with lines of code and I was instantly hooked. I stayed after school everyday for 4-6 hours practicing because I had no computer at home. This persisted for years(the programming, I built a computer out of old parts,) and hasn't slow down much at all and I am excited to see where it will take me.</p>
+		move me to the only other available class: Intro to Visual Basic. I started a few weeks late at this point and had no idea that coding even existed. Suffice to say, I started doing poorly
+		in that class as well. Because of this, I decided to stay after school to get some help. When my teacher realized I didn't even know what coding was, she layed out the endless possibilities of creation that coding unlocks; I was instantly hooked. I stayed after school everyday for 4-6 hours practicing because I had no computer at home. This persisted for years(the programming not the ater school stuff, I built a computer out of old parts,) and hasn't slow down at all.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -34,13 +34,13 @@ nav-menu: true
 				</header>
 				<p>Having computer science under my belt in highschool inspired all sorts of knowledge I don't think I would've had without it. Things such as "I can learn anything in the world because all the information I need is online." I write more about this in my blog post.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="learning_blog.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -56,7 +56,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -79,9 +79,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Present Day</h2>
 		</header>
-		<p>Now I am a senior and I feel grateful for the experiences I have been through that made me the pereson I am. Every single thing that happens can be learned from and I hope I drove home the point that many things may be out of your control or lucky/unlucky, but no matter what your mindset determines the experience.</p>
+		<p>Now I am a senior and I feel grateful for the experiences I have been through that made me the person I am today. Every single thing that happens can be learned from and I hope I drove home the point that many things may be out of your control or lucky/unlucky, but no matter what, your mindset determines the experience.</p>
 		<ul class="actions">
-			<li><a href="elements.html" class="button next">Check out my projects</a></li>
+			<li><a href="projects.html" class="button next">Check out my projects</a></li>
 		</ul>
 	</div>
 </section>
