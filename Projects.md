@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Ray Marching</h3>
 				</header>
-				<p>Ray tracing techniques is something that has always been very interesting to me. It mixes real life optical physics with the deceptive techniques of computer rendering. Ray marching was one of those easy introductions to understanding how everything works and can be optimized. The image shows a still image of a frame from the simulation but the techniques involved are really clever and amazing. I aim to use these techniques to accelerate another engine one day.</p>
+				<p>Ray tracing techniques is something that has always been very interesting to me. It mixes real life optical physics with the deceptive techniques of computer rendering. Ray marching was one of those easy introductions to understanding how everything works and can be optimized. The image shows a frame from the simulation but the techniques involved are really clever and amazing. I aim to use these techniques to accelerate another engine one day.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Compiler/Ray-Marching-Demo" class="button">Learn more</a></li>
 				</ul>
