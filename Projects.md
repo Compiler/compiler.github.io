@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Present Day Projects</h2>
 		</header>
-		<p>Present day, I am working on a machine learning model to generate comments from code and then unit tests from code. I am also working on a Vulkan backed ray tracing rendering engine in C++ as well as developing my web development and devops skillset. I have many many more projects on my GitHub so go check them out!</p>
+		<p>Present day, I am working on a machine learning model to generate comments from code and then unit tests from code. I am also working on a Vulkan backed ray tracing rendering engine in C++ as well as improving my web development and DevOps skillset. I have many many more projects on my GitHub so go check them out!</p>
 		<ul class="actions">
 			<li><a href="https://github.com/compiler" class="button next">My Github</a></li>
 		</ul>
