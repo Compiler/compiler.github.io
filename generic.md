@@ -15,3 +15,10 @@ What would it take to be 1% better today? Picking up a single piece of garbage? 
 ![tiny-gains](assets/images/tiny-gains-graph.jpg){: width="600" }
 {: refdef}
 
+
+| Days Passed   | Year 1| Year 2    | Year 3    | 
+| ----          | ----  | ----      | ----      |
+| Percent Better| 37%   | 1427%     | 53939%    | 
+| Percent Worse | 0.03% | 0.00065%  | 0.000017% |
+
+This table speaks very loud about how fast bad habits can throw us down a terrible spiral to a fraction of the person we once were. However, being 1% better each day for 2 years results in being 14x the person you are today. That speaks even louder. 
