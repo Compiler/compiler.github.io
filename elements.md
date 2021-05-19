@@ -22,49 +22,49 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="https://github.com/Compiler/Vofog-Game-Engine" class="image">
+			<img src="{% link assets/images/vofog.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Learning Anything</h3>
+					<h3>Vofog Engine</h3>
 				</header>
-				<p>Having computer science under my belt in highschool inspired all sorts of knowledge I don't think I would've had without it. Things such as "I can learn anything in the world because all the information I need is online." I write more about this in my blog post.</p>
+				<p>This engine took me nearly a year of long hour days to develop. This engine supports scripting in Lua, a photoshop esque drag and drop system, entity component system for faster processing with cache friendliness & data oriented design, realtime Bullet Physics support, and a whole host of other features. The entire rendering pipeline is written in OpenGL and the design is not only aimed at efficiency, but also ease of use. There is realtime updating of shaders to see how your code changes the engine and a customizable UI with ImGUI. The amount of features is endless and it really taught me so many things about architecting a massive system.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Compiler/Vofog-Game-Engine" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="https://github.com/Compiler/NLParallel" class="image">
+			<img src="{% link assets/images/first_pass.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Mentorship</h3>
+					<h3>NLParallel</h3>
 				</header>
-				<p>As much as I would like to say I was a brilliant kid with a talent for Computer Science, I wasn't. I wouldn't be anywhere without the help of mentors. These people are the reason I am where I am today and I want to stress how important, although not necesary, these type of people are for accelerating your successes. </p>
-				<!-- <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul> -->
+				<p>NLParallel was a project that taught me a ton about scraping the web and the technologies, challenges, and power of data mining. I did this project initially under Dr. Kai Wang for computing the novelty of an idea. To do this, we needed data and the data was my first job. One thing that caught me by surprise was how to validate that I am even creating a graph when there are millions of nodes-- I might've accidently created n sub graphs or a big tree, so I also needed a way to visualize data(Image is a picture of that data) and other ways to validate my findings such as predictable results from a Kruskal pass over my graph. I didn't know it at the time, but this project helped immensely with the work I do today.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Compiler/NLParallel" class="button">Learn more</a></li>
+				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="https://github.com/Compiler/Ray-Marching-Demo" class="image">
+			<img src="{% link assets/images/raymarching.PNG %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Mindset</h3>
+					<h3>Ray Marching</h3>
 				</header>
-				<p>As a freshmen in college, it was easy to blow off classes that I thought were under me, such as Intro to Java when I had already been studying Java religiously for 4 years. However, it is way more important to take those type of opportunities to help others in the class and build relationships with people who might love the field just as much as you do, that alone is important enough to give it your all and maybe learn something new.</p>
+				<p>Ray tracing techniques is something that has always been very interesting to me. It mixes real life optical physics with the deceptive techniques of computer rendering. Ray marching was one of those easy introductions to understanding how everything works and can be optimized. The image shows a still image of a frame from the simulation but the techniques involved are really clever and amazing. I aim to use these techniques to accelerate another engine one day.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Compiler/Ray-Marching-Demo" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,9 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Present day</h2>
+			<h2>Present day projects</h2>
 		</header>
-		<p>Now I am a senior and I feel grateful for the experiences I have been through that made me the pereson I am. Every single thing that happens can be learned from and I hope I drove home the point that many things may be out of your control or lucky/unlucky, but no matter what your mindset determines the experience.</p>
+		<p>Present day, I am working on a machine learning model to generate comments from code and then unit tests from code. I am also working on a Vulkan backed ray tracing rendering engine in C++ as well as developing my web development and devops skillset.</p>
 		<!-- <ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul> -->

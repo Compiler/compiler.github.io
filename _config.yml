@@ -34,6 +34,8 @@ socials:
 # build settings
 markdown: kramdown
 
+repository: compiler/compiler.github.io
+
 sass:
   style: compressed
 
