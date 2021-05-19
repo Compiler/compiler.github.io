@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 		<p>When I was a freshman in highschool, I started to fail my photography class for not having a camera. As sad as that is, my guidance conselor saw this and called me in to 
 		move me to the only other available class: Intro to Visual Basic. I started a few weeks late at this point and had no idea that coding even existed. Suffice to say I started doing poorly
-		in that class as well. Because of this, I decided to stay after school to get some help and that's when my teacher showed me how I am could create things with lines of code and I was instantly hooked. </p>
+		in that class as well. Because of this, I decided to stay after school to get some help and that's when my teacher showed me how I am could create things with lines of code and I was instantly hooked. I stayed after school everyday for 4-6 hours practicing because I had no computer at home. This persisted for years(the programming, I built a computer out of old parts,) and hasn't slow down much at all and I am excited to see where it will take me.</p>
 	</div>
 </section>
 
@@ -65,9 +65,9 @@ nav-menu: true
 					<h3>Mindset</h3>
 				</header>
 				<p>As a freshmen in college, it was easy to blow off classes that I thought were under me, such as Intro to Java when I had already been studying Java religiously for 4 years. However, it is way more important to take those type of opportunities to help others in the class and build relationships with people who might love the field just as much as you do, that alone is important enough to give it your all and maybe learn something new.</p>
-				<ul class="actions">
+				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</section>
@@ -80,9 +80,9 @@ nav-menu: true
 			<h2>Present day</h2>
 		</header>
 		<p>Now I am a senior and I feel grateful for the experiences I have been through that made me the pereson I am. Every single thing that happens can be learned from and I hope I drove home the point that many things may be out of your control or lucky/unlucky, but no matter what your mindset determines the experience.</p>
-		<!-- <ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul> -->
+		<ul class="actions">
+			<li><a href="elements.html" class="button next">Check out my projects</a></li>
+		</ul>
 	</div>
 </section>
 
