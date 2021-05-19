@@ -28,3 +28,5 @@ Compound Effect
  : The strategy of reaping huge rewards from small, seemingly insignificant actions.
 
 ---
+
+## To be continued---
