@@ -77,7 +77,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Present day</h2>
+			<h2>Present Day</h2>
 		</header>
 		<p>Now I am a senior and I feel grateful for the experiences I have been through that made me the pereson I am. Every single thing that happens can be learned from and I hope I drove home the point that many things may be out of your control or lucky/unlucky, but no matter what your mindset determines the experience.</p>
 		<ul class="actions">

@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: old and new
+description: and how they helped me
 image: assets/images/pic05.jpg
 nav-menu: true
 ---
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Forgotten projects</h2>
+			<h2>Forgotten Projects</h2>
 		</header>
 		<p>For the first 3-4 years of programming, all my projects were stored locally and then backed up to a google drive. This was before I understood the importance of version control even in solo projects. However, even though they are old it is funny how much I would over complicate easy tasks just to see if I could. Always challenging yourself is a key part of growth-- working just outside your limits and struggling. Below I list some of the projects that I DO have on github and am excited to show you. </p>
 	</div>
@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Present day projects</h2>
+			<h2>Present Day Projects</h2>
 		</header>
 		<p>Present day, I am working on a machine learning model to generate comments from code and then unit tests from code. I am also working on a Vulkan backed ray tracing rendering engine in C++ as well as developing my web development and devops skillset. I have many many more projects on my github so go check them out!</p>
 		<ul class="actions">

@@ -6,7 +6,7 @@ description: A 22 year old, highly driven, computer scientist<br /> and Machine 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 10 lake avenue
+street_address: 10 Lake Avenue
 city: East Brunswick
 state: New Jersey
 zip_code: 08816

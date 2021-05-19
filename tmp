@@ -1,0 +1,21 @@
+echo "Dear World"
+name="Rachel Green"
+echo $name
+hostname
+whoami
+uname -a
+ping www.google.com
+pwd
+mkdir test
+cd test
+touch testfile.txt
+cat testfile.txt
+echo "some dummy text" > testfile.txt
+cat testfile.txt
+ls -l
+cp testfile.txt  testfile1.txt
+chmod 0777 testfile.txt
+chmod 0755 testfile1.txt
+ls -l
+mv testfile.txt  testfile2.txt
+cd .. 
