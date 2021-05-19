@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 		<p>When I was a freshman in highschool, I started to fail my photography class for not having a camera. As sad as that is, my guidance conselor saw this and called me in to 
 		move me to the only other available class: Intro to Visual Basic. I started a few weeks late at this point and had no idea that coding even existed. Suffice to say, I started doing poorly
-		in that class as well. Because of this, I decided to stay after school to get some help. When my teacher realized I didn't even know what coding was, she layed out the endless possibilities of creation that coding unlocks; I was instantly hooked. I stayed after school everyday for 4-6 hours practicing because I had no computer at home. This persisted for years(the programming not the ater school stuff, I built a computer out of old parts,) and hasn't slow down at all.</p>
+		in that class as well. Because of this, I decided to stay after school to get some help. When my teacher realized I didn't even know what coding was, she layed out the endless possibilities of creation that coding unlocks; I was instantly hooked. I stayed after school everyday for 4-6 hours practicing because I had no computer at home. This persisted for years(the programming, I built a computer out of old parts) and hasn't slow down at all.</p>
 	</div>
 </section>
 
@@ -48,7 +48,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Mentorship</h3>
 				</header>
-				<p>As much as I would like to say I was a brilliant kid with a talent for Computer Science, I wasn't. I wouldn't be anywhere without the help of mentors. These people are the reason I am where I am today and I want to stress how important, although not necesary, these type of people are for accelerating your successes. </p>
+				<p>As much as I would like to say I was a brilliant kid with a talent for Computer Science, I wasn't. I wouldn't be anywhere without the help of mentors. These people are the reason I am where I am today and I want to stress how important, although not necessary, these type of people are for accelerating your successes. </p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
