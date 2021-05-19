@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://github.com/Compiler/NLParallel" class="image">
+		<a href="https://github.com/Compiler/NLParallel_PublicVersion" class="image">
 			<img src="{% link assets/images/first_pass.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>NLParallel was a project that taught me a ton about scraping the web and the technologies, challenges, and power of data mining. I did this project initially under Dr. Kai Wang for computing the novelty of an idea. To do this, we needed data and the data was my first job. One thing that caught me by surprise was how to validate that I am even creating a graph when there are millions of nodes-- I might've accidently created n sub graphs or a big tree, so I also needed a way to visualize data(Image is a picture of that data) and other ways to validate my findings such as predictable results from a Kruskal pass over my graph. I didn't know it at the time, but this project helped immensely with the work I do today.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Compiler/NLParallel" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Compiler/NLParallel_PublicVersion" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -77,10 +77,10 @@ nav-menu: true
 		<header class="major">
 			<h2>Present day projects</h2>
 		</header>
-		<p>Present day, I am working on a machine learning model to generate comments from code and then unit tests from code. I am also working on a Vulkan backed ray tracing rendering engine in C++ as well as developing my web development and devops skillset.</p>
-		<!-- <ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul> -->
+		<p>Present day, I am working on a machine learning model to generate comments from code and then unit tests from code. I am also working on a Vulkan backed ray tracing rendering engine in C++ as well as developing my web development and devops skillset. I have many many more projects on my github so go check them out!</p>
+		<ul class="actions">
+			<li><a href="github.com/compiler" class="button next">My Github</a></li>
+		</ul>
 	</div>
 </section>
 

@@ -38,7 +38,7 @@ repository: compiler/compiler.github.io
 
 sass:
   style: compressed
-
+github: [metadata]
 exclude: [vendor]
 exclude:
 - "*.gemspec"
