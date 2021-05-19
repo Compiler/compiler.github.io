@@ -81,7 +81,7 @@ nav-menu: true
 		</header>
 		<p>Now I am a senior and I feel grateful for the experiences I have been through that made me the person I am today. Every single thing that happens can be learned from and I hope I drove home the point that many things may be out of your control or lucky/unlucky, but no matter what, your mindset determines the experience.</p>
 		<ul class="actions">
-			<li><a href="projects.html" class="button next">Check out my projects</a></li>
+			<li><a href="Projects.html" class="button next">Check out my projects</a></li>
 		</ul>
 	</div>
 </section>
