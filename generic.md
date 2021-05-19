@@ -21,4 +21,9 @@ What would it take to be 1% better today? Picking up a single piece of garbage? 
 | Percent Better| 37%   | 1427%     | 53939%    | 
 | Percent Worse | 0.03% | 0.00065%  | 0.000017% |
 
-This table speaks very loud about how fast bad habits can throw us down a terrible spiral to a fraction of the person we once were. However, being 1% better each day for 2 years results in being 14x the person you are today. That speaks even louder. 
+
+This table speaks very loudly about how fast bad habits can throw us down a terrible spiral leading to being a fraction of the person we once were. However, being 1% better each day for 2 years results in being 14x the person you are today. That speaks even louder. This idea is known to me as the _Compound Effect_.
+Compound Effect
+ : The strategy of reaping huge rewards from small, seemingly insignificant actions.
+
+---
