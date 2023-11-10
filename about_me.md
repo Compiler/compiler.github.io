@@ -62,10 +62,10 @@ nav-menu: true
 				<header class="major">
 					<h3>Mindset</h3>
 				</header>
-				<p>Computer science isn't just a job, career hobby; it's an art. The art is a mesmerizing tapestry woven with intricate algorithms and elegant code. The very language in which you write code is a superset of the language of the universe: mathematics & logic. The unbounded scale at which a single program can grow is what makes a single programmer so powerful. To me, being a computer scientist is the most exciting thing you can be.</p>
+				<p>Computer science isn't just a job, career or hobby; it's an art. The art is a mesmerizing tapestry woven with intricate algorithms and elegant code. The very language in which you write code is a superset of the language of the universe: mathematics & logic. The unbounded scale at which a single program can grow is what makes a single programmer so powerful. To me, being a computer scientist is the most exciting thing you can be.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul> -->
+				</ul> --> 
 			</div>
 		</div>
 	</section>
@@ -77,9 +77,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Present Day</h2>
 		</header>
-		<p>I have spent time at Intel scaling their backend for automation. I wrote the internal structures and systems that each automation workflow is built upon on their chip inspection team. After learning a ton, I moved to a more fast pace environment to see if I couldn't accelerate my skill development. This is how I landed at Topaz Labs, where I work now. Topaz Labs is filled with brilliant people who's focused is honed to a point on user-facing product development. After just a short amount of time here, I learned so much about ownership, product quality, and code reliability. </p>
+		<p>I have spent time at Intel scaling their backend for automation. I wrote the internal structures and systems that each automation workflow is built upon on their chip inspection team. After learning a ton, I moved to a more fast paced environment to see if I couldn't accelerate my skill development. This is how I landed at Topaz Labs, where I work now. Topaz Labs is filled with brilliant people who's focused is honed to a point on user-facing product development. After just a short amount of time here, I learned so much about ownership, product quality, and code reliability. </p>
 		<ul class="actions">
-			<li><a href="Projects.html" class="button next">Check out my projects</a></li>
+			<li><a href="Projects.html" class="button next">Check out my personal projects</a></li>
 		</ul>
 	</div>
 </section>

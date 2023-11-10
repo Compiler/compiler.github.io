@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Vofog Engine</h3>
 				</header>
-				<p>This engine took me nearly a year of long hour days to develop. This engine supports scripting in Lua, a photoshop esque drag and drop system, entity component system for faster processing with cache friendliness & data oriented design, realtime Bullet Physics support, and a whole host of other features. The entire rendering pipeline is written in OpenGL and the design is not only aimed at efficiency, but also ease of use. There is realtime updating of shaders to see how your code changes the engine and a customizable UI with ImGUI. The amount of features is endless and it really taught me so many things about architecting a massive system.</p>
+				<p>This engine took me nearly a year of long hour days to develop. This engine supports scripting in Lua, a photoshop esque drag and drop system, entity component system for faster processing with cache friendliness & data oriented design, realtime Bullet Physics support, and a whole host of other features. The entire rendering pipeline is written in OpenGL and the design is not only aimed at efficiency, but also ease of use. There is realtime shader compilation to see how your code changes the engine and a customizable UI with ImGUI. There are a ton of features and it really taught me so many things about architecting a massive system.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Compiler/Vofog-Game-Engine" class="button">Learn more</a></li>
 				</ul>
@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Present Day Projects</h2>
 		</header>
-		<p>Present day, I am working on a machine learning model to generate comments from code and then unit tests from code. I am also working on a Vulkan backed ray tracing rendering engine in C++ as well as improving my web development and DevOps skillset. I have many many more projects on my GitHub so go check them out!</p>
+		<p>Currently, I am working with WebRTC to try and stream data into a webclient that will render a depth map from a robot. I build the WebRTC p2p connections myself and added redundancy with TURN servers and other related WebRTC helpers. The end goal is to see if we can't effectively and efficiently control a robot over the web with realtime accuracy. </p>
 		<ul class="actions">
 			<li><a href="https://github.com/compiler" class="button next">My Github</a></li>
 		</ul>
