@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Learning Anything</h3>
+					<h3>Progression tracker</h3>
 				</header>
-				<p>Having computer science under my belt in highschool inspired all sorts of knowledge I don't think I would've had without it. Things such as "I can learn anything in the world because all the information I need is online." I write more about this in my blog post.</p>
+				<p>When trying to improve, it's important to be entirely on top of the time you spend and the actions you take. Here, I track the time seeking to improve myself daily.</p>
 				<ul class="actions">
 					<li><a href="learning_blog.html" class="button">Learn more</a></li>
 				</ul>
