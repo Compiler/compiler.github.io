@@ -10,6 +10,7 @@ nav-menu: true
 
 ## Day 1 - November 25th, 2023
 
+### Logged
 
 | Learned                   |      Scheduled    |   
 |----------                 |:-------------:|
@@ -26,8 +27,12 @@ nav-menu: true
 | Algorithms        | 0 | 
 | Projects          | 0 | 
 
+### Summarty
 
-* Logged: 
+ - Composite:
+    
+
+
     
 
 
