@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Daily learned topics / accomplished tasks
-description: Progression
+title: Progression
+description: Tracking and improving my efforts
 image: assets/images/pic11.jpg
 date: "November 25th, 2023"
 nav-menu: true
