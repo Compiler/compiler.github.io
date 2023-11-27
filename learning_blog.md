@@ -19,7 +19,7 @@ nav-menu: true
 
 
 
-| Topic   |      Time (min)      |
+| Topic   |      Session       |
 |----------|:-------------:|
 | Design patterns   | 0 |
 | System Design     | 0 |
@@ -27,9 +27,12 @@ nav-menu: true
 | Algorithms        | 0 | 
 | Projects          | 0 | 
 
-### Summarty
+### Summary
 
  - Composite:
+
+
+ ### [WIP] Updaing non-daily
     
 
 
