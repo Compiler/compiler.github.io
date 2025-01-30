@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Resume
-description: 
-image: assets/images/pic04.png
+description: Contact me to get my most recent resume
 nav-menu: true
 show_tile: true
 ---
