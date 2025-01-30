@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Vofog Engine</h3>
 				</header>
-				<p>This engine took me nearly a year of long hour days to develop. This engine supports scripting in Lua, a photoshop esque drag and drop system, entity component system for faster processing with cache friendliness & data oriented design, realtime Bullet Physics support, and a whole host of other features. The entire rendering pipeline is written in OpenGL and the design is not only aimed at efficiency, but also ease of use. There is realtime shader compilation to see how your code changes the engine and a customizable UI with ImGUI. There are a ton of features and it really taught me so many things about architecting a massive system.</p>
+				<p>This engine was a long running passion project to explore the intricacies of rendering and opengl. Simultaneously, I was very interested in learning shaders and realtime graphics manipulation, so in the engine I ended up supporting realtime shader compilation and a very intuitive UI for myself to explore and build on the topics.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Compiler/Vofog-Game-Engine" class="button">Learn more</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>NLParallel</h3>
 				</header>
-				<p>NLParallel was a project that taught me a ton about scraping the web and the technologies, challenges, and power of data mining. I did this project initially under Dr. Kai Wang for computing the novelty of an idea. To do this, we needed data and the data was my first job. One thing that caught me by surprise was how to validate that I am even creating a graph when there are millions of nodes-- I might've accidently created n sub graphs or a big tree, so I also needed a way to visualize data(Image is a picture of that data) and other ways to validate my findings such as predictable results from a Kruskal pass over my graph. I didn't know it at the time, but this project helped immensely with the work I do today.</p>
+				<p>NLParallel was a project that taught me a ton about scraping the web and the technologies, challenges, and power of data mining. I did this project initially under Dr. Kai Wang for computing the novelty of an idea. To do this, we needed data and the data was my first job. One thing that caught me by surprise was the difficulties in being smart about the scraping approach-- I might've accidently created n sub graphs or a big tree, so I also needed a way to visualize data(Image is a picture of that data) and other ways to validate my findings such as predictable results from a Kruskal pass over my graph. I ended up scraping millions of lines of code from open source projects and parsing them into code-comment pairs.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Compiler/NLParallel_PublicVersion" class="button">Learn more</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Ray Marching</h3>
 				</header>
-				<p>Ray tracing techniques is something that has always been very interesting to me. It mixes real life optical physics with the deceptive techniques of computer rendering. Ray marching was one of those easy introductions to understanding how everything works and can be optimized. The image shows a frame from the simulation but the techniques involved are really clever and amazing. I aim to use these techniques to accelerate another engine one day.</p>
+				<p>Ray marching was a pet project to learn how to morph solid figures in a realistic looking way. It mixes real life optical physics with the deceptive techniques of computer rendering. The image shows a frame from the simulation, and I really enjoyed the process of figuring out these tehcniques. I aim to use these techniques in an upcoming rendering engine.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Compiler/Ray-Marching-Demo" class="button">Learn more</a></li>
 				</ul>
