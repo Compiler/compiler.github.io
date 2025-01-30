@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Who I am</h2>
 		</header>
-		<p>My name is Luke Roche and I have been programming since I was 13 years old. Immediately after discovering computer science, I was obsessed. I spent countless hours programming as a kid and I have maintained that level of passion and energy to this day. Currently, I left my cushy job at Intel to grow my career at a startup. After just a few months on the job, I made massive contributions to the company and myself as an engineer.</p>
+		<p>My name is Luke Roche and I have been programming since I was 13 years old. Immediately after discovering computer science, I was obsessed. I spent countless hours programming as a kid and I have maintained that level of passion and energy to this day. .</p>
 	</div>
 </section>
 
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Mentorship</h3>
 				</header>
-				<p>Mentors have the abililty to accelerate your growth on an unbelievably fast timeline. I wouldn't be anywhere near where I am today without the help of my mentors. These people are the reason I am where I am today and I want to stress how important these type of people are for accelerating your success. </p>
+				<p>Mentors have the abililty to accelerate your growth on an unbelievably accelerated timeline. I wouldn't be anywhere near where I am today without the help of my mentors: Doug Rudolph, Margaret Incantalupo, and many others. These people are the reason I am where I am today and I want to stress how important these type of people are for accelerating your success. </p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Mindset</h3>
 				</header>
-				<p>Computer science isn't just a job, career or hobby; it's an art. The art is a mesmerizing tapestry woven with intricate algorithms and elegant code. The very language in which you write code is a superset of the language of the universe: mathematics & logic. The unbounded scale at which a single program can grow is what makes a single programmer so powerful. To me, being a computer scientist is the most exciting thing you can be.</p>
+				<p>Computer science isn't just a job, career or hobby; it's an art. The art is a mesmerizing tapestry woven with intricate algorithms and elegant code. The very language in which you write code is a superset of the language of the universe: mathematics & logic. The unbounded scale at which a single program can grow is what makes a single programmer so powerful. To me, being a computer scientist is the most exciting thing you can be. My passions remain in local performance computing and GPU acceleration, as they have for the last 10+ years.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> --> 
@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Present Day</h2>
 		</header>
-		<p>I have spent time at Intel scaling their backend for automation. I wrote the internal structures and systems that each automation workflow is built upon on their chip inspection team. After learning a ton, I moved to a more fast paced environment to see if I couldn't accelerate my skill development. This is how I landed at Topaz Labs, where I work now. Topaz Labs is filled with brilliant people who's focused is honed to a point on user-facing product development. After just a short amount of time here, I learned so much about ownership, product quality, and code reliability. </p>
+		<p>I have spent time at Intel scaling their backend for automation. I wrote the internal structures and systems that each of Intels Automation workflow is built upon on their chip inspection team. After learning a lot about big companies, I moved to a more fast paced environment to see if I couldn't accelerate my skill development. This is how I landed at Topaz Labs, where I work now. Topaz Labs is filled with brilliant people, where customer impact is our number one focus. After just a short amount of time here, I learned so much about ownership, product quality, and code reliability. </p>
 		<ul class="actions">
 			<li><a href="Projects.html" class="button next">Check out my personal projects</a></li>
 		</ul>
